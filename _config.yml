@@ -1,0 +1,4 @@
+remote_theme: sighingnow/jekyll-gitbook
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
